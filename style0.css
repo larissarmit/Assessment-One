@@ -1,13 +1,12 @@
 html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp,small, strong, sub, sup, var,b, i,dl, dt, dd, ol, ul, li, fieldset, form, label, legend, caption, tbody, tfoot, thead,
+border: 0;
+font:inherit;
+font-size:100%
 margin:0;
-padding:0;
-border:0;
-outline:0;
-font-size:100%;
-vertical-align:baseline;
+vertical-align:base-line;
 }
 
-html,body {background: #F7F9F9; font-family: 'Oswald', garamond, arial, sans serif; font-size: 14px; color: #F7F9F9; }
+html,body {background: #F7F9F9; font-family: 'Oswald', Arial, sans-serif; font-size: 14px; color: #F7F9F9; }
 
 cv{
 width: 90%;
