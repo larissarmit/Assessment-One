@@ -7,9 +7,9 @@
 <body>
 <div id ="cv">
 <section>
+ <article>
 <div class="sectionTitle><h1>An Introduction</h1></div>
 <div class="sectionContent">
-<article>
 <p> My name is Larissa but I general go by Laz. I'm twenty six years of age and live in the beautiful Lake Macquarie region with my wife, adopted brother and our kitten. Up until six months ago, I had spent the majority of my adult life working as a sous chef in upmarket local restaurants. Due to the physical degradation cause by spending fourteen hours on my feet every day, I chose to follow one of my other passions by venturing into the IT world. Currently I work for a major telecommunications provider, assisting in the resolution of difficulties on a nation wide government network; put simply I'm a complaints specialist.</p>
 <br>
 <div class=sectionTitle><h2>Interesting Facts</h2></div>
