@@ -1,4 +1,4 @@
-html,body 
+html body 
 {background:#FFF; font-family: arial, helvetica sans-serif; font-size:16px; color:#31393C;}
 
 #cv {
@@ -15,20 +15,16 @@ background:#FFF;
 margin: 28px;
 border: 30px solid #2292A4;
 padding: 30px;
-font-family: 'helvetica' sans-serif;
+font-family: helvetica sans-serif;
 font size: 14px;
 color: #31393C;
 
 h1, h2, h3 {
-font-family: 'Helvetica' sans-serif;
+font-family: helvetica sans-serif;
 font-size: 24;
 color: #FFAF1C;
 alignment: center;
   }
-
-img {
-alignment: center;
-justify: auto;
 
 section {
 border-top:4px solid: #2292A4;
