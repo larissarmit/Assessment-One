@@ -29,14 +29,14 @@ color: #31393C;
   margin-right: 40px;
   margin-left: 40px;
 
-section {
+}
+
+sectionContent {
 border-style: solid; 
 border-color: #64A6BD; 
 border-width: 2px ;
   padding-top: 50px;
-  padding-right: 30px;
-}  
-div {
+  padding-right: 30px; 
   height: auto;
   width: 80%;
   background-color: transparent;
