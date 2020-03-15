@@ -30,3 +30,9 @@ img {
 alignment: center;
 justify: auto;
 
+section {
+border-top:4px solid: #2292A4;
+  padding: 20px, 0,0;
+float: right;
+width:25%;
+  }
