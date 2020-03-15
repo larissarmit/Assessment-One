@@ -1,18 +1,17 @@
 <!DOCTYPE html>
 <html>
+  <div id ="cv">
 <head>
 <link rel="stylesheet" type="text/css" href="style0.css">
 <link href="https://fonts.googleapis.com/css?family=Teko&display=swap" rel="stylesheet" type='text/css'>
 </head>
 <body>
-<div id ="cv">
 <section>
-<div class="sectionTitle><h1>An Introduction</h1></div>
-<div class="sectionContent">
+<div class="sectionTitle>
+<div class="sectionContent"><h2>Introduction</h2>
 <article>
 <p> My name is Larissa but I general go by Laz. I'm twenty six years of age and live in the beautiful Lake Macquarie region with my wife, adopted brother and our kitten. Up until six months ago, I had spent the majority of my adult life working as a sous chef in upmarket local restaurants. Due to the physical degradation cause by spending fourteen hours on my feet every day, I chose to follow one of my other passions by venturing into the IT world. Currently I work for a major telecommunications provider, assisting in the resolution of difficulties on a nation wide government network; put simply I'm a complaints specialist.</p>
 <br>
-<center>
 <center>
 <img src="https://github.com/larissarmit/Assessment-One/blob/master/dinos.png?raw=true" alt="Headshot" />
                                                                                                       </center>
@@ -70,8 +69,8 @@ Some people (or fictional characters) who also fit this personality type are Mic
 </section>
 <br>
 <section>
-<div class="sectionTitle><h1>Interest In IT</h1></div>
-<div class="sectionContent">
+<div class="sectionTitle>
+<div class="sectionContent"><h2>Interest In IT</h2></div>
 <article>
 <p>From the beginning of my childhood, I was obsessed with how and why things worked. At first it was things like bionicles or robotised Lego sets but eventually I discovered the internet and video games. As a twelve year old I ventured into the applications of mods for games like Unreal Tournament and Obivion, awed by the idea of being able to change a game however you wanted by simply coding it. As I got older I ventured into HTML coding for social website and watching documentries on groups like Anonymous and The Dark Overlord. Some of their accomplishments although nefarious are rather impressive. Personally I've always garnered more satisfaction from outsmarting people like that and solving puzzles.</p>
 <br>
