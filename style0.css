@@ -1,7 +1,7 @@
 html,body 
-{background:#FFF; font-family:'arial','helvetica' sans-serif; font-size:16px; color:#31393C;}
+{background:#FFF; font-family: arial, helvetica sans-serif; font-size:16px; color:#31393C;}
 
-cv {
+#cv {
 width: 90%;
 max width: 780px;
 background:#FFF;
