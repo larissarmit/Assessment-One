@@ -23,5 +23,13 @@ text-align: center;
 font-family: 'Oswald';
 font-size: 14px;
 color: #31393C;
-  
-  
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-right: 40px;
+  margin-left: 40px;
+
+section {
+border-style: solid; 
+border-color: #64A6BD; 
+border-width: 2px ;
+  }  
