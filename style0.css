@@ -36,10 +36,9 @@ border-style: solid;
 border-color: #64A6BD; 
 border-width: 2px ;
   padding-top: 50px;
-  padding-right: 30px; 
-  height: auto;
-  width: 80%;
-  background-color: transparent;
+  padding-right: 20px; 
+  height: 200px;
+background-color: transparent;
 float: center;
 width: 75%
 }
