@@ -16,13 +16,14 @@ body {
 h1, h2, h3 {
   text-align: center;
   color:#FFAF1C;
+font-family:'Arial', sans-serif;
 
 }
 
 
 p {
 text-align: left;
-font-family: 'verdana';
+font-family: 'Arial' sans-serif;
 font-size: 14px;
 color: #31393C;
   margin-top: 10px;
