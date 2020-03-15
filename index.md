@@ -14,7 +14,7 @@
 <img src="https://github.com/larissarmit/Assessment-One/blob/master/dinos.png?raw=true" alt="Headshot" />
                                                                                                       </center>
 <br>
-<h2>Interesting Facts</h2></div>
+<h2>Interesting Facts</h2>
 <ul>
  <li> As the character Korben Dallas once said, I only speak English and Bad English.</li>
 <li>  My highest education completion is a Certificate 3 in Commercial Cookery.</li>
@@ -24,7 +24,7 @@
 <li> As far as I’m aware, my family ancestry is a mess of people from all over Europe but primarily Ireland and France.</li>
 </ul>
 <br>
-<div class=sectionTitle><h3>Contact Details</h3></div>
+<h3>Contact Details</h3>
 <ul>
  <li>Email: <a href="mailto: S3859154@student.rmit.edu.au" target:"_blank"> student email</a></li>
  <li>Student Identifier: S3859154 </li>
