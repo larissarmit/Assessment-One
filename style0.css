@@ -6,7 +6,7 @@ margin:0;
 vertical-align:base-line;
 }
 
-html,body {background: #F7F9F9; font-family: 'Oswald', Arial, sans-serif; font-size: 14px; color: #F7F9F9; }
+html,body {background: #F7F9F9; font-family: 'Oswald', Arial, sans-serif; font-size: 14px; color: #F7F9F9;}
 
 cv{
 width: 90%;
@@ -33,7 +33,7 @@ padding: 20px;
 
 h1 {
 
-font-family: 'Teko', Garamond, Arial, sans serif; 
+font-family: 'Oswald', Arial, sans-serif; 
 font-style: default;
 font-size: 1em;
 color: #2292A4;
@@ -42,7 +42,7 @@ color: #2292A4;
 
 h2 {
 
-font-family: 'Teko', Garamond, Arial, sans serif; 
+font-family: 'Oswald', Arial, sans-serif; 
 font-style: default;
 font-size: 1em;
 color: #2292A4;
@@ -51,7 +51,7 @@ color: #2292A4;
 
 h3 {
 
-font-family: 'Oswald', Garamond, Arial, sans serif; 
+font-family: 'Oswald', Arial, sans-serif; 
 font-style: default;
 font-size: 1em;
 color: #2292A4;
