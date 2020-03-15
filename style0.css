@@ -8,60 +8,20 @@ vertical-align:base-line;
 
 html,body {background: #F7F9F9; font-family: 'Oswald', Arial, sans-serif; font-size: 14px; color: #F7F9F9;}
 
+body {
+  background-color: #F7F9F9;
+}
+
+h1, h2, h3 {
+  text-align: center;
+  color:#2292A4;
+}
+
+
 p {
-font-family:'Oswald';
-font-size: 1em;
-line-height: 1.6px;
-margin-bottom: 22px;
-color: #31393C ;
-}
-
-cv{
-width: 90%;
-max-width: 780px; 
-background: #F7F9F9;
-margin: 30px auto;
-}
-
-section {
-border-top: 2px solid #2292A4;
-padding: 22px 0,0;
+text-align: center;
+font-family: 'Oswald';
+font-size: 14px;
+color: #31393C;
   
-h1 {
-
-font-family: 'Oswald', Arial, sans-serif; 
-font-style: default;
-font-size: 1em;
-color: #2292A4;
-
-}
-
-h2 {
-
-font-family: 'Oswald', Arial, sans-serif; 
-font-style: default;
-font-size: 1em;
-color: #2292A4;
-
-}
-
-h3 {
-
-font-family: 'Oswald', Arial, sans-serif; 
-font-style: default;
-font-size: 1em;
-color: #2292A4;
-
-/* unvisited link */
-a:link {
-  color: #64A6BD ;
-}
-
-/* visited link */
-a:visited {
-  color: #2292A4;
-}
-
-
-}
-
+  
