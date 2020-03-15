@@ -26,7 +26,6 @@
 <ul>
  <li>Email: <a href="mailto: S3859154@student.rmit.edu.au" target:"_blank"> student email</a></li>
  <li>Student Identifier: S3859154 </li>
-<li> My highest education completion is a Certificate 3 in Commercial Cookery.
 <center>
 <img src "filename.jpg" alt="alternatename"/>
 </center>
@@ -73,6 +72,7 @@ Some people (or fictional characters) who also fit this personality type are Mic
 To date my experience in IT is limited to HTML coding, JavaScript and Network testing but I'm learning very quickly now that I've started my studies with RMIT and listening to Youtube videos during my work hours.
 <br>
 I chose to join RMIT based upon the research I performed. My scope was resonably narrow given that I'm doing correspondence education but I did uncover a few interesting facts. For example, RMIT ranks 59th on the the <a href="https://www.rmit.edu.au/about/our-education/reputation-and-rankings/reputation-and-rankings" target="_blank">Graduate Employment</a> which is pretty impressive considering how many people I know who have degrees but can't find a job in their field. The university has also consistently improved their <a href="https://www.mastersportal.com/rankings-reviews/11792/rmit-university.html" target="_blank">global ranking</a> in the last three years, moving forward over a hundred positions.
+<br>
 During my studies I hope to learn enough about coding and programming that I can help to make a difference. That's why I'm interested in pursuing cyber security, AI development or working in a company that does something similar to <a href="https://www.vice.com/en_au/article/qvmm3x/hackers-hunting-missing-people-osint-defcon-tracelabs" target="_blank">TraceLabs</a> missing persons program.
 </p>
 </article>
