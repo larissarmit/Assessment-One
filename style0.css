@@ -27,7 +27,7 @@ section {
 border-top: 2px solid #2292A4;
 padding: 22px 0,0;
 
-  div {
+  div.fixed {
  width: 300px;
  border: 1px solid #2292A4;
  padding: 50px;
