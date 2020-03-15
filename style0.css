@@ -2,6 +2,7 @@ html,body
 {background:#FFF; font-family:'arial','helvetica' sans-serif; font-size:16px; color:#31393C;}
 
 sectionContent {
+alignment: center;
 width: 75%;
 background:#FFF;
 margin: 28px;
