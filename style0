@@ -1,0 +1,60 @@
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp,small, strong, sub, sup, var,b, i,dl, dt, dd, ol, ul, li, fieldset, form, label, legend, caption, tbody, tfoot, thead,
+margin:0;
+padding:0;
+border:0;
+outline:0;
+font-size:100%;
+vertical-align:baseline;
+background:transparent;
+}
+
+html,body {background: #F7F9F9; font-family: 'Teko', garamond, arial, sans serif; font-size: 14px; color: #F7F9F9; }
+
+cv{
+width: 90%;
+max-width: 780px; 
+background: #F7F9F9;
+magin: 30px auto;
+
+
+
+p {
+
+font-size: 1em;
+line-height: 1.6px;
+margin-bottom: 22px;
+color: #31393C ;
+}
+
+section {
+border-top: 2px solid #FFAF1C; 
+padding: 20px;
+}
+
+h1 {
+
+font-family: 'Teko', Garamond, Arial, sans serif; 
+font-style: default;
+font-size: 1em;
+color: #2292A4;
+
+}
+
+h2 {
+
+font-family: 'Teko', Garamond, Arial, sans serif; 
+font-style: default;
+font-size: 1em;
+color: #2292A4;
+
+}
+
+h3 {
+
+font-family: 'Teko', Garamond, Arial, sans serif; 
+font-style: default;
+font-size: 1em;
+color: #2292A4;
+
+}
+
