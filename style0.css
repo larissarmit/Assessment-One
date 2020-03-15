@@ -23,19 +23,6 @@ font-family: 'Arial', sans-serif;
 
 }
 
-
-p {
-text-align: left;
-font-family: 'Arial' sans-serif;
-font-size: 14px;
-color: #31393C;
-  margin-top: 10px;
-  margin-bottom: 20px;
-  margin-right: 40px;
-  margin-left: 40px;
-
-}
-
 sectionContent {
 border-style: solid; 
 border-color: #64A6BD; 
@@ -45,6 +32,9 @@ border-width: 2px ;
   height: 200px;
 background-color: transparent;
 float: center;
-width: 75%
+width: 75%;
+font-family: 'Arial' sans-serif;
+font-size:14px;
+font-color: #31393;C
 }
 
