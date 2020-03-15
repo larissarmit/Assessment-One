@@ -1,5 +1,5 @@
 html body 
-{background:#FFF; font-family: arial, helvetica sans-serif; font-size:16px; color:#31393C;}
+{background:#FFF; font-family: oswald, oswald sans-serif; font-size:16px; color:#31393C;}
 
 cv{
 width: 90%;
@@ -8,21 +8,20 @@ background:#FFF;
 margin 30px auto;
 }
 
-
 sectionContent {
 width: 75%;
 background:#FFF;
 margin: 28px;
 border: 30px solid #2292A4;
 padding: 30px;
-font-family: helvetica sans-serif;
+font-family: oswald sans-serif;
 font size: 14px;
 color: #31393C;
 float: right;
 width:25%;
 
 sectionTitle, h1,h2,h3 {
-font-family: helvetica sans-serif;
+font-family: oswald sans-serif;
 font-size: 24px;
 color: #FFAF1C;
 alignment: center;
