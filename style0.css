@@ -8,16 +8,17 @@ vertical-align:baseline;
 background:transparent;
 }
 
-html,body {background: #F7F9F9; font-family: 'Teko', garamond, arial, sans serif; font-size: 14px; color: #F7F9F9; }
+html,body {background: #F7F9F9; font-family: 'Oswald', garamond, arial, sans serif; font-size: 14px; color: #F7F9F9; }
 
 cv{
 width: 90%;
 max-width: 780px; 
 background: #F7F9F9;
 magin: 30px auto;
-
-
-
+}
+section {
+border-top: 2px solid #2292A4;
+padding: 22px 0,0;
 p {
 
 font-size: 1em;
@@ -55,6 +56,8 @@ font-family: 'Teko', Garamond, Arial, sans serif;
 font-style: default;
 font-size: 1em;
 color: #2292A4;
+
+
 
 }
 
