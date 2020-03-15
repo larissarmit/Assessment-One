@@ -12,6 +12,11 @@
 <article>
 <p> My name is Larissa but I general go by Laz. I'm twenty six years of age and live in the beautiful Lake Macquarie region with my wife, adopted brother and our kitten. Up until six months ago, I had spent the majority of my adult life working as a sous chef in upmarket local restaurants. Due to the physical degradation cause by spending fourteen hours on my feet every day, I chose to follow one of my other passions by venturing into the IT world. Currently I work for a major telecommunications provider, assisting in the resolution of difficulties on a nation wide government network; put simply I'm a complaints specialist.</p>
 <br>
+<center>
+<center>
+<img src="https://github.com/larissarmit/Assessment-One/blob/master/dinos.png?raw=true" alt="Headshot" />
+                                                                                                      </center>
+<br>
 <div class=sectionTitle><h2>Interesting Facts</h2></div>
 <ul>
  <li> As the character Korben Dallas once said, I only speak English and Bad English.</li>
@@ -26,9 +31,7 @@
 <ul>
  <li>Email: <a href="mailto: S3859154@student.rmit.edu.au" target:"_blank"> student email</a></li>
  <li>Student Identifier: S3859154 </li>
-<center>
-<img src "filename.jpg" alt="alternatename"/>
-</center>
+                                                                          </ul>
 </article>
 </div>
 </section>
@@ -38,7 +41,7 @@
 <article>
 <div class=sectionTitle><h2>Myer Briggs</h2></div>
 <center>
-<img src "filename.jpg" alt="alternatename"/>
+<img src="https://github.com/larissarmit/Assessment-One/blob/master/architectt.png?raw=true" alt="Architect" />
 </center>
 <p>In the words of Harlan Ellison: <quote>“You are not entitled to your opinion. You are entitled to your informed opinion. No one is entitled to be ignorant.”</quote> 
 <br>
@@ -48,13 +51,13 @@ Some people (or fictional characters) who also fit this personality type are Mic
 <br>
 <div class=sectionTitle><h2>Learning Syle</h2></div>
 <center>
-<img src="filename.jpg" alt="alternatename"/>
+<img src="https://github.com/larissarmit/Assessment-One/blob/master/edcuation%20style.png?raw=true" alt="Tactile" />
 </center>
 <br>
 <br>
 <div class=sectionTitle><h2>Synthetic Aperture Personality Assessment</div>
 <center>
-<img src="filename.jpg" alt="alternatename"/>
+<img src="SPI 27.png" alt="SAPA"/>
 </center>
 <p> The <a href="https://sapa-project.org/info/faq.html#sapamean" target="_blank"> Synthetic Aperture Personality Assessment</a>is designed to measure your abilities, temperament and interests. The responses you give are scored against twenty seven different indicators, comparing everything from creativity to authoritarianism. In conjunction with this, it also measures the Big Five scores and presents them on a bellgraph so that you can see yourself in comparison to the average. While this is quite an interesting way to break down the personality into tangible indivdual segments, I feel as though it could use some further refining.</p>
 <br>
@@ -88,7 +91,8 @@ During my studies I hope to learn enough about coding and programming that I can
 <div class="sectionContent">
 <article>
 <center>
-<img src="filename.jpg" alt="alternatename"/>
+<img src="https://github.com/larissarmit/Assessment-One/blob/master/circuit.png?raw=true" "alt="Jobs" />
+
 </center>
 <div class=sectionTitle><h2>Description</h2></div>
 <p>Working as a <a href="https://www.seek.com.au/job/40986652?type=standard#searchRequestToken=f52cdb3b-b275-4679-b22e-d2aa46ab16af" target="_blank">Software Engineer</a> in Machine Learning and AI is quite a incredulous goal. This role would involve working in a large group to a high standard, creating portions of code that are able to accept the boundaries of certain mechanics while still adapting to an ever changing external environment. As someone who has always been fascinated by puzzles, this seems to be the ultimate development puzzle. How do you plan to solve a problem that hasn't arisen yet? This having been said, this is not my dream job. My long term aspiration is to be involved in the development of artificial limbs or neuro-surgical implants.</p>
