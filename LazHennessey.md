@@ -7,9 +7,9 @@
 <body>
 <div id ="cv">
 <section>
- <article>
 <div class="sectionTitle><h1>An Introduction</h1></div>
 <div class="sectionContent">
+<article>
 <p> My name is Larissa but I general go by Laz. I'm twenty six years of age and live in the beautiful Lake Macquarie region with my wife, adopted brother and our kitten. Up until six months ago, I had spent the majority of my adult life working as a sous chef in upmarket local restaurants. Due to the physical degradation cause by spending fourteen hours on my feet every day, I chose to follow one of my other passions by venturing into the IT world. Currently I work for a major telecommunications provider, assisting in the resolution of difficulties on a nation wide government network; put simply I'm a complaints specialist.</p>
 <br>
 <div class=sectionTitle><h2>Interesting Facts</h2></div>
@@ -40,7 +40,7 @@
 <center>
 <img src "filename.jpg" alt="alternatename"/>
 </center>
-<p>In the words of Harlan Ellison: <q>“You are not entitled to your opinion. You are entitled to your informed opinion. No one is entitled to be ignorant.”</q> 
+<p>In the words of Harlan Ellison: <quote>“You are not entitled to your opinion. You are entitled to your informed opinion. No one is entitled to be ignorant.”</quote> 
 <br>
 The 16 Personalities website theorises that only 0.8% of women fit into this class. This is an estimate of approximately 30.8 million women. In the grand scheme of things, this is not a large number. People who fit into this personality type are thought to be more goal orientated than their peers, great planners and often skilled in many fields. Unfortunately they are also often socially stunted, judgemental and unable to perform in highly structured environments.
 
@@ -58,13 +58,14 @@ Some people (or fictional characters) who also fit this personality type are Mic
 </center>
 <p> The <a href="https://sapa-project.org/info/faq.html#sapamean" target="_blank"> Synthetic Aperture Personality Assessment</a>is designed to measure your abilities, temperament and interests. The responses you give are scored against twenty seven different indicators, comparing everything from creativity to authoritarianism. In conjunction with this, it also measures the Big Five scores and presents them on a bellgraph so that you can see yourself in comparison to the average. While this is quite an interesting way to break down the personality into tangible indivdual segments, I feel as though it could use some further refining.</p>
 <br>
-<div class=sectionTitle><h2>Reflection<h2>
+<br>
+<div class=sectionTitle><h2>Reflection</h2></div>
+<br>
 <p>Having reviewed the results that these three tests provided, I do not feel as though anything particularly jaw dropping has been revealed. As a person I have always been somewhat turbulent and prone to anxiety, I didn't need a personality test to reveal that to me. However now that I've reviewed it with the consideration that it'll affect how my team performs, I will definitely aim to be clear and open with my peers. This will help to reduce any anxiety that may arise from fear of miscommunication or delay in setting concrete plans. It's definitely something that I will be mindful of when working with others.</p>
 <br>
 </article>
-</div>
 </section>
-
+<br>
 <section>
 <div class="sectionTitle><h1>Interest In IT</h1></div>
 <div class="sectionContent">
@@ -82,7 +83,6 @@ I chose to join RMIT based upon the research I performed. My scope was resonably
 During my studies I hope to learn enough about coding and programming that I can help to make a difference. That's why I'm interested in pursuing cyber security, AI development or working in a company that does something similar to <a href="https://www.vice.com/en_au/article/qvmm3x/hackers-hunting-missing-people-osint-defcon-tracelabs" target="_blank">TraceLabs</a> missing persons program.
 </p>
 </article>
-</section>
 <section>
 <div class=sectionTitle><h1>The Perfect Job</h1></div>
 <div class="sectionContent">
