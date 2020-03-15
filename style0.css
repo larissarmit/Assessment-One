@@ -1,17 +1,6 @@
 html,body 
 {background:#FFF; font-family:'arial','helvetica' sans-serif; font-size:16px; color:#31393C;}
 
-body, p, sectionContent {
-font-family: 'Arial' sans-serif;
-font-color: #31393C;
-font-size: 16px;
-text alignment: center;
-width:90%;
-max-width: 750px;
-background-color:#FFF;
-
-}
-
 sectionContent {
 width: 75%;
 background:#FFF;
