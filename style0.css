@@ -6,7 +6,7 @@ margin:0;
 vertical-align:base-line;
 }
 
-html,body {background: #FFF; font-family: 'Oswald', 'arial', sans-serif; font-size: 14px; color: #F7F9F9;}
+html,body {background: #FFF; font-family: 'verdana', sans-serif; font-size: 14px; color: #F7F9F9;}
 
 body {
   background-color: #FFF;
@@ -21,7 +21,7 @@ h1, h2, h3 {
 
 p {
 text-align: left;
-font-family: 'Oswald';
+font-family: 'verdana';
 font-size: 14px;
 color: #31393C;
   margin-top: 10px;
