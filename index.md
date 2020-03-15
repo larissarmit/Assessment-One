@@ -59,8 +59,6 @@ Some people (or fictional characters) who also fit this personality type are Mic
 <h2>Reflection</h2>
 <br>
 <p>Having reviewed the results that these three tests provided, I do not feel as though anything particularly jaw dropping has been revealed. As a person I have always been somewhat turbulent and prone to anxiety, I didn't need a personality test to reveal that to me. However now that I've reviewed it with the consideration that it'll affect how my team performs, I will definitely aim to be clear and open with my peers. This will help to reduce any anxiety that may arise from fear of miscommunication or delay in setting concrete plans. It's definitely something that I will be mindful of when working with others.</p>
-<br>
-<br>
 <section>
 <div class="sectionContent"><h2>Interest In IT</h2>
 <article>
