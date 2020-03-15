@@ -1,13 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Larissa Hennessey</title>
 <link rel="stylesheet" type="text/css" href="style0.css">
 <link href="https://fonts.googleapis.com/css?family=Teko&display=swap" rel="stylesheet" type='text/css'>
 </head>
 <body>
-
-
 <div id ="cv">
 <section>
 <div class="sectionTitle><h1>An Introduction</h1></div>
