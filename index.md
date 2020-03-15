@@ -46,13 +46,13 @@ The 16 Personalities website theorises that only 0.8% of women fit into this cla
 
 Some people (or fictional characters) who also fit this personality type are Michelle Obama, Arnold Schwarzenegger, Yennefer of Vengerberg and Gandalf the Grey.
 <br>
-<div class=sectionTitle><h2>Learning Syle</h2>
+<h2>Learning Syle</h2>
 <center>
 <img src="https://github.com/larissarmit/Assessment-One/blob/master/edcuation%20style.png?raw=true" alt="Tactile" />
 </center>
 <br>
 <br>
-<div class=sectionTitle><h2>Synthetic Aperture Personality Assessment</h2>
+<h2>Synthetic Aperture Personality Assessment</h2>
 <center>
 <img src="SPI 27.png" alt="SAPA"/>
 </center>
