@@ -63,8 +63,6 @@ Some people (or fictional characters) who also fit this personality type are Mic
 <br>
 <p>Having reviewed the results that these three tests provided, I do not feel as though anything particularly jaw dropping has been revealed. As a person I have always been somewhat turbulent and prone to anxiety, I didn't need a personality test to reveal that to me. However now that I've reviewed it with the consideration that it'll affect how my team performs, I will definitely aim to be clear and open with my peers. This will help to reduce any anxiety that may arise from fear of miscommunication or delay in setting concrete plans. It's definitely something that I will be mindful of when working with others.</p>
 <br>
-</article>
-</section>
 <br>
 <section>
 <div class="sectionContent"><h2>Interest In IT</h2>
@@ -103,5 +101,4 @@ During my studies I hope to learn enough about coding and programming that I can
 <h2>Development Plan</h2>
 <p>As of right now, the only skills I have is a hardly passable knowlege of HTML and Javascript. That having been said, I spend the majority of my time listening to programming courses in the background to develop my base knowledge. In order to broaden my skill set, it is my goal that by the end of my degree that I will be certified in Python, Java, Kotlin and Spring Boot. This is far from all the knowledge I'll need to attain this role. However feel as though on the job experience in other roles is also pivotal in developing a solid knowledge base.</p>
 </article>
-</section>
-                                                                                                                                                    </body>
+
