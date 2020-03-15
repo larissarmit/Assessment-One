@@ -36,17 +36,17 @@
 <div class="sectionTitle><h1>Personality</h1></div>
 <div class="sectionContent">
 <article>
-<div class=sectionTitle><h2>Myer Briggs</h2></div>
+<div class=sectionTitle><h2>Myer Briggs</h2>
 <center>
 <img src="https://github.com/larissarmit/Assessment-One/blob/master/architectt.png?raw=true" alt="Architect" />
 </center>
-<p>In the words of Harlan Ellison: <quote>“You are not entitled to your opinion. You are entitled to your informed opinion. No one is entitled to be ignorant.”</quote> 
+<p>In the words of Harlan Ellison: <blockquote>“You are not entitled to your opinion. You are entitled to your informed opinion. No one is entitled to be ignorant.”</blockquote> 
 <br>
 The 16 Personalities website theorises that only 0.8% of women fit into this class. This is an estimate of approximately 30.8 million women. In the grand scheme of things, this is not a large number. People who fit into this personality type are thought to be more goal orientated than their peers, great planners and often skilled in many fields. Unfortunately they are also often socially stunted, judgemental and unable to perform in highly structured environments.
 
 Some people (or fictional characters) who also fit this personality type are Michelle Obama, Arnold Schwarzenegger, Yennefer of Vengerberg and Gandalf the Grey.
 <br>
-<div class=sectionTitle><h2>Learning Syle</h2></div>
+<div class=sectionTitle><h2>Learning Syle</h2>
 <center>
 <img src="https://github.com/larissarmit/Assessment-One/blob/master/edcuation%20style.png?raw=true" alt="Tactile" />
 </center>
