@@ -6,7 +6,7 @@ margin:0;
 vertical-align:base-line;
 }
 
-html,body {background: #F7F9F9; font-family: 'Oswald', Arial, sans-serif; font-size: 14px; color: #F7F9F9;}
+html,body {background: #F7F9F9; font-family: 'Oswald', 'arial', sans-serif; font-size: 14px; color: #F7F9F9;}
 
 body {
   background-color: #F7F9F9;
@@ -19,7 +19,7 @@ h1, h2, h3 {
 
 
 p {
-text-align: center;
+text-align: left;
 font-family: 'Oswald';
 font-size: 14px;
 color: #31393C;
@@ -32,4 +32,5 @@ section {
 border-style: solid; 
 border-color: #64A6BD; 
 border-width: 2px ;
-  }  
+  padding-top: 50px;
+  padding-right: 30px;}  
