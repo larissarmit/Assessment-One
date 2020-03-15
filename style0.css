@@ -13,7 +13,7 @@ cv{
 width: 90%;
 max-width: 780px; 
 background: #F7F9F9;
-magin: 30px auto;
+margin: 30px auto;
 }
 
 section {
@@ -52,7 +52,7 @@ color: #2292A4;
 
 h3 {
 
-font-family: 'Teko', Garamond, Arial, sans serif; 
+font-family: 'Oswald', Garamond, Arial, sans serif; 
 font-style: default;
 font-size: 1em;
 color: #2292A4;
