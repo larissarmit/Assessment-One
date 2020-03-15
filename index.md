@@ -33,10 +33,10 @@
 </div>
 </section>
 <section>
-<div class="sectionTitle><h1>Personality</h1></div>
+<h1>Personality</h1>
 <div class="sectionContent">
 <article>
-<div class=sectionTitle><h2>Myer Briggs</h2>
+<h2>Myer Briggs</h2>
 <center>
 <img src="https://github.com/larissarmit/Assessment-One/blob/master/architectt.png?raw=true" alt="Architect" />
 </center>
@@ -52,14 +52,14 @@ Some people (or fictional characters) who also fit this personality type are Mic
 </center>
 <br>
 <br>
-<div class=sectionTitle><h2>Synthetic Aperture Personality Assessment</div>
+<div class=sectionTitle><h2>Synthetic Aperture Personality Assessment</h2>
 <center>
 <img src="SPI 27.png" alt="SAPA"/>
 </center>
 <p> The <a href="https://sapa-project.org/info/faq.html#sapamean" target="_blank"> Synthetic Aperture Personality Assessment</a>is designed to measure your abilities, temperament and interests. The responses you give are scored against twenty seven different indicators, comparing everything from creativity to authoritarianism. In conjunction with this, it also measures the Big Five scores and presents them on a bellgraph so that you can see yourself in comparison to the average. While this is quite an interesting way to break down the personality into tangible indivdual segments, I feel as though it could use some further refining.</p>
 <br>
 <br>
-<div class=sectionTitle><h2>Reflection</h2></div>
+<h2>Reflection</h2>
 <br>
 <p>Having reviewed the results that these three tests provided, I do not feel as though anything particularly jaw dropping has been revealed. As a person I have always been somewhat turbulent and prone to anxiety, I didn't need a personality test to reveal that to me. However now that I've reviewed it with the consideration that it'll affect how my team performs, I will definitely aim to be clear and open with my peers. This will help to reduce any anxiety that may arise from fear of miscommunication or delay in setting concrete plans. It's definitely something that I will be mindful of when working with others.</p>
 <br>
@@ -67,8 +67,7 @@ Some people (or fictional characters) who also fit this personality type are Mic
 </section>
 <br>
 <section>
-<div class="sectionTitle>
-<div class="sectionContent"><h2>Interest In IT</h2></div>
+<div class="sectionContent"><h2>Interest In IT</h2>
 <article>
 <p>From the beginning of my childhood, I was obsessed with how and why things worked. At first it was things like bionicles or robotised Lego sets but eventually I discovered the internet and video games. As a twelve year old I ventured into the applications of mods for games like Unreal Tournament and Obivion, awed by the idea of being able to change a game however you wanted by simply coding it. As I got older I ventured into HTML coding for social website and watching documentries on groups like Anonymous and The Dark Overlord. Some of their accomplishments although nefarious are rather impressive. Personally I've always garnered more satisfaction from outsmarting people like that and solving puzzles.</p>
 <br>
@@ -84,14 +83,14 @@ During my studies I hope to learn enough about coding and programming that I can
 </p>
 </article>
 <section>
-<div class=sectionTitle><h1>The Perfect Job</h1></div>
+<h1>The Perfect Job</h1>
 <div class="sectionContent">
 <article>
 <center>
 <img src="https://github.com/larissarmit/Assessment-One/blob/master/circuit.png?raw=true" "alt="Jobs" />
 
 </center>
-<div class=sectionTitle><h2>Description</h2></div>
+<h2>Description</h2>
 <p>Working as a <a href="https://www.seek.com.au/job/40986652?type=standard#searchRequestToken=f52cdb3b-b275-4679-b22e-d2aa46ab16af" target="_blank">Software Engineer</a> in Machine Learning and AI is quite a incredulous goal. This role would involve working in a large group to a high standard, creating portions of code that are able to accept the boundaries of certain mechanics while still adapting to an ever changing external environment. As someone who has always been fascinated by puzzles, this seems to be the ultimate development puzzle. How do you plan to solve a problem that hasn't arisen yet? This having been said, this is not my dream job. My long term aspiration is to be involved in the development of artificial limbs or neuro-surgical implants.</p>
 <div class=sectionTitle><h2>Requirements</h2> </div>
 <ul>
