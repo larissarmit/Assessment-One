@@ -1,7 +1,7 @@
 html body 
 {background:#FFF; font-family: arial, helvetica sans-serif; font-size:16px; color:#31393C;}
 
-#cv {
+cv{
 width: 90%;
 max width: 780px;
 background:#FFF;
@@ -21,7 +21,7 @@ color: #31393C;
 float: right;
 width:25%;
 
-h1, h2, h3 {
+sectionTitle, h1,h2,h3 {
 font-family: helvetica sans-serif;
 font-size: 24px;
 color: #FFAF1C;
