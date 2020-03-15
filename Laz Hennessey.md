@@ -59,20 +59,26 @@ Some people (or fictional characters) who also fit this personality type are Mic
 <p> The <a href="https://sapa-project.org/info/faq.html#sapamean" target="_blank"> Synthetic Aperture Personality Assessment</a>is designed to measure your abilities, temperament and interests. The responses you give are scored against twenty seven different indicators, comparing everything from creativity to authoritarianism. In conjunction with this, it also measures the Big Five scores and presents them on a bellgraph so that you can see yourself in comparison to the average. While this is quite an interesting way to break down the personality into tangible indivdual segments, I feel as though it could use some further refining.</p>
 <br>
 <div class=sectionTitle><h2>Reflection<h2>
-<p> Having reviewed the results that these three tests provided, I do not feel as though anything particularly jaw dropping has been revealed. As a person I have always been somewhat turbulent and prone to anxiety, I didn't need a personality test to reveal that to me. However now that I've reviewed it with the consideration that it'll affect how my team performs, I will definitely aim to be clear and open with my peers. This will help to reduce any anxiety that may arise from fear of miscommunication or delay in setting concrete plans. It's definitely something that I will be mindful of when working with others.</p
+<p>Having reviewed the results that these three tests provided, I do not feel as though anything particularly jaw dropping has been revealed. As a person I have always been somewhat turbulent and prone to anxiety, I didn't need a personality test to reveal that to me. However now that I've reviewed it with the consideration that it'll affect how my team performs, I will definitely aim to be clear and open with my peers. This will help to reduce any anxiety that may arise from fear of miscommunication or delay in setting concrete plans. It's definitely something that I will be mindful of when working with others.</p>
+<br>
 </article>
 </div>
 </section>
-<div class="sectionContent">
+
+<section>
 <div class="sectionTitle><h1>Interest In IT</h1></div>
 <div class="sectionContent">
 <article>
-<p>From the beginning of my childhood, I was obsessed with how and why things worked. At first it was things like bionicles or robotised Lego sets but eventually I discovered the internet and video games. As a twelve year old I ventured into the applications of mods for games like Unreal Tournament and Obivion, awed by the idea of being able to change a game however you wanted by simply coding it. As I got older I ventured into HTML coding for social website and watching documentries on groups like Anonymous and The Dark Overlord. Some of their accomplishments although nefarious are rather impressive. Personally I've always garnered more satisfaction from outsmarting people like that and solving puzzles.
+<p>From the beginning of my childhood, I was obsessed with how and why things worked. At first it was things like bionicles or robotised Lego sets but eventually I discovered the internet and video games. As a twelve year old I ventured into the applications of mods for games like Unreal Tournament and Obivion, awed by the idea of being able to change a game however you wanted by simply coding it. As I got older I ventured into HTML coding for social website and watching documentries on groups like Anonymous and The Dark Overlord. Some of their accomplishments although nefarious are rather impressive. Personally I've always garnered more satisfaction from outsmarting people like that and solving puzzles.</p>
 <br>
-To date my experience in IT is limited to HTML coding, JavaScript and Network testing but I'm learning very quickly now that I've started my studies with RMIT and listening to Youtube videos during my work hours.
+<p>
+To date my experience in IT is limited to HTML coding, JavaScript and Network testing but I'm learning very quickly now that I've started my studies with RMIT and listening to Youtube videos during my work hours.</p>
 <br>
+<p>
 I chose to join RMIT based upon the research I performed. My scope was resonably narrow given that I'm doing correspondence education but I did uncover a few interesting facts. For example, RMIT ranks 59th on the the <a href="https://www.rmit.edu.au/about/our-education/reputation-and-rankings/reputation-and-rankings" target="_blank">Graduate Employment</a> which is pretty impressive considering how many people I know who have degrees but can't find a job in their field. The university has also consistently improved their <a href="https://www.mastersportal.com/rankings-reviews/11792/rmit-university.html" target="_blank">global ranking</a> in the last three years, moving forward over a hundred positions.
+</p>
 <br>
+<p>
 During my studies I hope to learn enough about coding and programming that I can help to make a difference. That's why I'm interested in pursuing cyber security, AI development or working in a company that does something similar to <a href="https://www.vice.com/en_au/article/qvmm3x/hackers-hunting-missing-people-osint-defcon-tracelabs" target="_blank">TraceLabs</a> missing persons program.
 </p>
 </article>
