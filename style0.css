@@ -9,6 +9,7 @@ vertical-align:base-line;
 html,body {background: #F7F9F9; font-family: 'Oswald', Arial, sans-serif; font-size: 14px; color: #F7F9F9;}
 
 p {
+font-family:'Oswald';
 font-size: 1em;
 line-height: 1.6px;
 margin-bottom: 22px;
@@ -26,6 +27,13 @@ section {
 border-top: 2px solid #2292A4;
 padding: 22px 0,0;
 
+  div {
+ width: 300px;
+ border: 1px solid #2292A4;
+ padding: 50px;
+ margin: 20px;
+}
+  
 h1 {
 
 font-family: 'Oswald', Arial, sans-serif; 
@@ -51,6 +59,15 @@ font-style: default;
 font-size: 1em;
 color: #2292A4;
 
+/* unvisited link */
+a:link {
+  color: #64A6BD ;
+}
+
+/* visited link */
+a:visited {
+  color: #2292A4;
+}
 
 
 }
