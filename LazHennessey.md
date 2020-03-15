@@ -26,7 +26,7 @@
 <li> As far as I’m aware, my family ancestry is a mess of people from all over Europe but primarily Ireland and France.</li>
 </ul>
 <br>
-<div class=sectionTitle><h2>Contact Details</h2></div>
+<div class=sectionTitle><h3>Contact Details</h3></div>
 <ul>
  <li>Email: <a href="mailto: S3859154@student.rmit.edu.au" target:"_blank"> student email</a></li>
  <li>Student Identifier: S3859154 </li>
