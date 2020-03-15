@@ -35,7 +35,10 @@ border-color: #64A6BD;
 border-width: 2px ;
   padding-top: 50px;
   padding-right: 30px;
- height: auto;
+}  
+div {
+  height: auto;
   width: 80%;
+  background-color: transparent;
+}
 
-;}  
