@@ -27,11 +27,16 @@ section {
 border-top: 2px solid #2292A4;
 padding: 22px 0,0;
 
-  div {
+ div {
  width: 300px;
  border: 1px solid #2292A4;
  padding: 50px;
  margin: 20px;
+}
+
+center {
+  text-align: center;
+  border: 3px solid green;
 }
   
 h1 {
