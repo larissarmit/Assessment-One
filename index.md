@@ -41,7 +41,6 @@
 <img src="https://github.com/larissarmit/Assessment-One/blob/master/architectt.png?raw=true" alt="Architect" />
 </center>
 <p>In the words of Harlan Ellison: <i>“You are not entitled to your opinion. You are entitled to your informed opinion. No one is entitled to be ignorant.” </i>
-  </p>
 <br>
 <p>The 16 Personalities website theorises that only 0.8% of women fit into this class. This is an estimate of approximately 30.8 million women. In the grand scheme of things, this is not a large number. People who fit into this personality type are thought to be more goal orientated than their peers, great planners and often skilled in many fields. Unfortunately they are also often socially stunted, judgemental and unable to perform in highly structured environments.
 
@@ -51,15 +50,12 @@ Some people (or fictional characters) who also fit this personality type are Mic
 <center>
 <img src="https://github.com/larissarmit/Assessment-One/blob/master/edcuation%20style.png?raw=true" alt="Tactile" />
 </center>
-<br>
-<br>
 <h2>Synthetic Aperture Personality Assessment</h2>
 <center>
 <img src="SPI 27.png" alt="SAPA"/>
 </center>
 <p> The <a href="https://sapa-project.org/info/faq.html#sapamean" target="_blank"> Synthetic Aperture Personality Assessment</a>is designed to measure your abilities, temperament and interests. The responses you give are scored against twenty seven different indicators, comparing everything from creativity to authoritarianism. In conjunction with this, it also measures the Big Five scores and presents them on a bellgraph so that you can see yourself in comparison to the average. While this is quite an interesting way to break down the personality into tangible indivdual segments, I feel as though it could use some further refining.</p>
-<br>
-<br>
+
 <h2>Reflection</h2>
 <br>
 <p>Having reviewed the results that these three tests provided, I do not feel as though anything particularly jaw dropping has been revealed. As a person I have always been somewhat turbulent and prone to anxiety, I didn't need a personality test to reveal that to me. However now that I've reviewed it with the consideration that it'll affect how my team performs, I will definitely aim to be clear and open with my peers. This will help to reduce any anxiety that may arise from fear of miscommunication or delay in setting concrete plans. It's definitely something that I will be mindful of when working with others.</p>
