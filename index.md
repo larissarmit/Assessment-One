@@ -87,12 +87,11 @@ During my studies I hope to learn enough about coding and programming that I can
 <div class="sectionContent">
 <article>
 <center>
-<img src="https://github.com/larissarmit/Assessment-One/blob/master/circuit.png?raw=true" "alt="Jobs" />
-
+<img src= "https://github.com/larissarmit/Assessment-One/blob/master/circuit.png?raw=true" "alt="Jobs" />
 </center>
 <h2>Description</h2>
 <p>Working as a <a href="https://www.seek.com.au/job/40986652?type=standard#searchRequestToken=f52cdb3b-b275-4679-b22e-d2aa46ab16af" target="_blank">Software Engineer</a> in Machine Learning and AI is quite a incredulous goal. This role would involve working in a large group to a high standard, creating portions of code that are able to accept the boundaries of certain mechanics while still adapting to an ever changing external environment. As someone who has always been fascinated by puzzles, this seems to be the ultimate development puzzle. How do you plan to solve a problem that hasn't arisen yet? This having been said, this is not my dream job. My long term aspiration is to be involved in the development of artificial limbs or neuro-surgical implants.</p>
-<div class=sectionTitle><h2>Requirements</h2> </div>
+<h2>Requirements</h2>
 <ul>
  <li>Java / Python / R</li>
 <li>Sprintboot / Django</li>
@@ -101,7 +100,7 @@ During my studies I hope to learn enough about coding and programming that I can
 <li>AWS or GCP</li>
 <li>Some understanding of Computer Engineering and Machanical Engineering is preferable.</li>
 </ul>
-<div class=sectionTitle><h2>Development Plan</h2></div>
+<h2>Development Plan</h2>
 <p>As of right now, the only skills I have is a hardly passable knowlege of HTML and Javascript. That having been said, I spend the majority of my time listening to programming courses in the background to develop my base knowledge. In order to broaden my skill set, it is my goal that by the end of my degree that I will be certified in Python, Java, Kotlin and Spring Boot. This is far from all the knowledge I'll need to attain this role. However feel as though on the job experience in other roles is also pivotal in developing a solid knowledge base.</p>
 </article>
 </section>
