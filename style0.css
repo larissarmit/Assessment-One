@@ -13,9 +13,14 @@ background-color:#FFF;
 }
 
 sectionContent {
-border: solid;
-border-width: 4px;
-padding: 20px;
+width: 75%;
+background:#FFF;
+margin: 28px;
+border: 30px solid #2292A4,
+padding: 30px;
+font-family: 'helvetica' sans-serif;
+font size: 14px;
+color: #31393C;
 
 h1, h2, h3 {
 font-family: 'Helvetica' sans-serif;
