@@ -1,6 +1,6 @@
 }
 
-body {
+body, p, sectionContent {
 font-family: 'Helvetica' sans-serif;
 font-color: #31393C;
 font-size: 16px;
