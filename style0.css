@@ -11,10 +11,6 @@ html,body {background: #FFF; font-family: 'Oswald', 'arial', sans-serif; font-si
 body {
   background-color: #FFF;
 }
-.column {
-  float: center;
-  width: 80%;
-
 
 h1, h2, h3 {
   text-align: center;
@@ -44,5 +40,7 @@ border-width: 2px ;
   height: auto;
   width: 80%;
   background-color: transparent;
+float: center;
+width: 75%
 }
 
