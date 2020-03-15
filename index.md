@@ -26,8 +26,8 @@
 <br>
 <h3>Contact Details</h3>
 <ul>
- <li>Email: <a href="mailto: S3859154@student.rmit.edu.au" target:"_blank"> student email</a></li>
- <li>Student Identifier: S3859154 </li>
+ <li>Email: <a href="mailto: S3859154@student.rmit.edu.au" target:"_blank">ClickHere</a></li>
+ <li>Student Identifier: S3859154</li>
                                                                           </ul>
 </article>
 </div>
@@ -40,8 +40,7 @@
 <center>
 <img src="https://github.com/larissarmit/Assessment-One/blob/master/architectt.png?raw=true" alt="Architect" />
 </center>
-<p>In the words of Harlan Ellison: 
-<blockquote> <i>“You are not entitled to your opinion. You are entitled to your informed opinion. No one is entitled to be ignorant.” </i> </blockquote> 
+<p>In the words of Harlan Ellison: <i>“You are not entitled to your opinion. You are entitled to your informed opinion. No one is entitled to be ignorant.” </i>
   </p>
 <br>
 <p>The 16 Personalities website theorises that only 0.8% of women fit into this class. This is an estimate of approximately 30.8 million women. In the grand scheme of things, this is not a large number. People who fit into this personality type are thought to be more goal orientated than their peers, great planners and often skilled in many fields. Unfortunately they are also often socially stunted, judgemental and unable to perform in highly structured environments.
